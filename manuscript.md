@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sfiala2.github.io/498_NO2_pred/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sfiala2.github.io/498_NO2_pred/v/97b294802ffcd39071b6e5b8ab59f60faf4be118/" />
+  <link rel="alternate" type="text/html" href="https://sfiala2.github.io/498_NO2_pred/v/6974480e1db26143a979c2c5e6c4598eec205fcc/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sfiala2.github.io/498_NO2_pred/v/97b294802ffcd39071b6e5b8ab59f60faf4be118/" />
+  <meta name="manubot_html_url_versioned" content="https://sfiala2.github.io/498_NO2_pred/v/6974480e1db26143a979c2c5e6c4598eec205fcc/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sfiala2.github.io/498_NO2_pred/v/97b294802ffcd39071b6e5b8ab59f60faf4be118/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sfiala2.github.io/498_NO2_pred/v/6974480e1db26143a979c2c5e6c4598eec205fcc/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://sfiala2.github.io/498_NO2_pred/v/97b294802ffcd39071b6e5b8ab59f60faf4be118/))
+([permalink](https://sfiala2.github.io/498_NO2_pred/v/6974480e1db26143a979c2c5e6c4598eec205fcc/))
 was automatically generated
-from [sfiala2/498_NO2_pred@97b2948](https://github.com/sfiala2/498_NO2_pred/tree/97b294802ffcd39071b6e5b8ab59f60faf4be118)
+from [sfiala2/498_NO2_pred@6974480](https://github.com/sfiala2/498_NO2_pred/tree/6974480e1db26143a979c2c5e6c4598eec205fcc)
 on November 24, 2020.
 </em></small>
 
