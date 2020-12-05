@@ -1,4 +1,11 @@
 AQI
+Bechle
 Clarizio
+dataset
+EDA
 janeroe
+MSE
+NAAQS
+ppb
 tessac
+tropospheric
