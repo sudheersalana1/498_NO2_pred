@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/sfiala2/498_NO2_pred/tree/gh-pages) branch hosts the contents of this directory at <https://sfiala2.github.io/498_NO2_pred/>.
-The permalink for this webpage version is <https://sfiala2.github.io/498_NO2_pred/v/0c54ab1d682d66b5e2ac0f2c9833da91b985b52f/>.
+The permalink for this webpage version is <https://sfiala2.github.io/498_NO2_pred/v/4136996cbb8b2927ee2a636e5c8f90b13f8d1ee4/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://sfiala2.github.io/498_NO2_pred/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`0c54ab1d682d66b5e2ac0f2c9833da91b985b52f`](https://github.com/sfiala2/498_NO2_pred/commit/0c54ab1d682d66b5e2ac0f2c9833da91b985b52f).
+[`4136996cbb8b2927ee2a636e5c8f90b13f8d1ee4`](https://github.com/sfiala2/498_NO2_pred/commit/4136996cbb8b2927ee2a636e5c8f90b13f8d1ee4).
