@@ -1,10 +1,14 @@
 ---
 author-meta:
-- John Doe
+- Tessa Clarizio
+- Jane Roe
+- Jane Roe
+- Jane Roe
+- Jane Roe
 - Jane Roe
 bibliography:
 - content/manual-references.json
-date-meta: '2020-11-24'
+date-meta: '2020-12-05'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -15,17 +19,17 @@ header-includes: '<!--
 
   <meta name="dc.format" content="text/html" />
 
-  <meta name="dc.title" content="Manuscript Title" />
+  <meta name="dc.title" content="Predicting NO2 concentrations" />
 
-  <meta name="citation_title" content="Manuscript Title" />
+  <meta name="citation_title" content="Predicting NO2 concentrations" />
 
-  <meta property="og:title" content="Manuscript Title" />
+  <meta property="og:title" content="Predicting NO2 concentrations" />
 
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta property="twitter:title" content="Predicting NO2 concentrations" />
 
-  <meta name="dc.date" content="2020-11-24" />
+  <meta name="dc.date" content="2020-12-05" />
 
-  <meta name="citation_publication_date" content="2020-11-24" />
+  <meta name="citation_publication_date" content="2020-12-05" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -39,21 +43,17 @@ header-includes: '<!--
 
   <meta name="citation_technical_report_institution" content="Manubot" />
 
-  <meta name="citation_author" content="John Doe" />
-
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-
-  <meta name="twitter:creator" content="@johndoe" />
+  <meta name="citation_author" content="Tessa Clarizio" />
 
   <meta name="citation_author" content="Jane Roe" />
 
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+  <meta name="citation_author" content="Jane Roe" />
 
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
+  <meta name="citation_author" content="Jane Roe" />
 
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Jane Roe" />
+
+  <meta name="citation_author" content="Jane Roe" />
 
   <link rel="canonical" href="https://sfiala2.github.io/498_NO2_pred/" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sfiala2.github.io/498_NO2_pred/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sfiala2.github.io/498_NO2_pred/v/6974480e1db26143a979c2c5e6c4598eec205fcc/" />
+  <link rel="alternate" type="text/html" href="https://sfiala2.github.io/498_NO2_pred/v/e619d43b8085bffb9514cb4d0129513858924568/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sfiala2.github.io/498_NO2_pred/v/6974480e1db26143a979c2c5e6c4598eec205fcc/" />
+  <meta name="manubot_html_url_versioned" content="https://sfiala2.github.io/498_NO2_pred/v/e619d43b8085bffb9514cb4d0129513858924568/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sfiala2.github.io/498_NO2_pred/v/6974480e1db26143a979c2c5e6c4598eec205fcc/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sfiala2.github.io/498_NO2_pred/v/e619d43b8085bffb9514cb4d0129513858924568/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -93,7 +93,7 @@ manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: Manuscript Title
+title: Predicting NO2 concentrations
 ...
 
 
@@ -103,35 +103,50 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://sfiala2.github.io/498_NO2_pred/v/6974480e1db26143a979c2c5e6c4598eec205fcc/))
+([permalink](https://sfiala2.github.io/498_NO2_pred/v/e619d43b8085bffb9514cb4d0129513858924568/))
 was automatically generated
-from [sfiala2/498_NO2_pred@6974480](https://github.com/sfiala2/498_NO2_pred/tree/6974480e1db26143a979c2c5e6c4598eec205fcc)
-on November 24, 2020.
+from [sfiala2/498_NO2_pred@e619d43](https://github.com/sfiala2/498_NO2_pred/tree/e619d43b8085bffb9514cb4d0129513858924568)
+on December 5, 2020.
 </em></small>
 
 ## Authors
 
 
 
-+ **John Doe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
++ **Tessa Clarizio**<br>
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [tessac2](https://github.com/tessac2)<br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
   </small>
 
 + **Jane Roe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon}
     [janeroe](https://github.com/janeroe)<br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+  </small>
+
++ **Jane Roe**<br>
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [janeroe](https://github.com/janeroe)<br>
+  <small>
+  </small>
+
++ **Jane Roe**<br>
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [janeroe](https://github.com/janeroe)<br>
+  <small>
+  </small>
+
++ **Jane Roe**<br>
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [janeroe](https://github.com/janeroe)<br>
+  <small>
+  </small>
+
++ **Jane Roe**<br>
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [janeroe](https://github.com/janeroe)<br>
+  <small>
   </small>
 
 
