@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sfiala2.github.io/498_NO2_pred/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sfiala2.github.io/498_NO2_pred/v/02c798df515a01d94d8485e934ed0232002933ed/" />
+  <link rel="alternate" type="text/html" href="https://sfiala2.github.io/498_NO2_pred/v/dfba9859ddec4bb42bbb26bd983dec29c7ce93d5/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sfiala2.github.io/498_NO2_pred/v/02c798df515a01d94d8485e934ed0232002933ed/" />
+  <meta name="manubot_html_url_versioned" content="https://sfiala2.github.io/498_NO2_pred/v/dfba9859ddec4bb42bbb26bd983dec29c7ce93d5/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sfiala2.github.io/498_NO2_pred/v/02c798df515a01d94d8485e934ed0232002933ed/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sfiala2.github.io/498_NO2_pred/v/dfba9859ddec4bb42bbb26bd983dec29c7ce93d5/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Predicting NO2 concentrations
 
 <small><em>
 This manuscript
-([permalink](https://sfiala2.github.io/498_NO2_pred/v/02c798df515a01d94d8485e934ed0232002933ed/))
+([permalink](https://sfiala2.github.io/498_NO2_pred/v/dfba9859ddec4bb42bbb26bd983dec29c7ce93d5/))
 was automatically generated
-from [sfiala2/498_NO2_pred@02c798d](https://github.com/sfiala2/498_NO2_pred/tree/02c798df515a01d94d8485e934ed0232002933ed)
+from [sfiala2/498_NO2_pred@dfba985](https://github.com/sfiala2/498_NO2_pred/tree/dfba9859ddec4bb42bbb26bd983dec29c7ce93d5)
 on December 5, 2020.
 </em></small>
 
@@ -187,16 +187,13 @@ Additionally, all studies considered meteorology when constructing the machine l
 ## 2.1.3 Comparison of PM2.5 and AQI/API studies
 |PM2.5|Both PM2.5 and AQI|
 |-----|------------------|
-|-**MLR** (Xu et al, 2018; Enebish et al, 2020; Chen et al, 2018)\
--**LASSO** (Xu et al, 2018)\ 
--**MARS** (Xu et al, 2018; Enebish et al, 2020 )\
-- **Gradient Boosting** (Xu et al, 2018; Enebish et al, 2020)\
-- **Cubist** (Xu et al, 2018)\
-- **Generalized additive model** (Enebish et al, 2020; Chen et al, 2018)\
-- **Mixed effects models** (Chen et al, 2018) | 
-- **RF** (Chen et al, 2018; Xu et al, 2018; Singh et al, 2013; Liu et al, 2019; Enebish et al, 2020)\ 
-- **Neural Network** (Azid et al, 2014; Xu et al, 2018, Gu et al, 2020)
-- **SVM**  (Xu et al, 2018; Gu et al, 2020; Liu et al, 2019; Enebish et al, 2020; Singh et al, 2013) |
+|**MLR** (Xu et al, 2018; Enebish et al, 2020; Chen et al, 2018) | **RF** (Chen et al, 2018; Xu et al, 2018; Singh et al, 2013; Liu et al, 2019; Enebish et al, 2020)|
+| **LASSO** (Xu et al, 2018) |  **Neural Network** (Azid et al, 2014; Xu et al, 2018, Gu et al, 2020) |
+| **MARS** (Xu et al, 2018; Enebish et al, 2020 ) | **SVM**  (Xu et al, 2018; Gu et al, 2020; Liu et al, 2019; Enebish et al, 2020; Singh et al, 2013) | 
+| **Gradient Boosting** (Xu et al, 2018; Enebish et al, 2020) | |
+| **Cubist** (Xu et al, 2018) | |
+| **Generalized additive model** (Enebish et al, 2020; Chen et al, 2018)| |
+| **Mixed effects models** (Chen et al, 2018) |  |
 ## 2.2 Exploratory Data Analysis
 ## 2.3 Model
 ### 2.3.1 Multiple Linear Regression
