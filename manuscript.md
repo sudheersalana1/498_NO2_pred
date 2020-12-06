@@ -8,7 +8,7 @@ author-meta:
 - Jane Roe
 bibliography:
 - content/manual-references.json
-date-meta: '2020-12-05'
+date-meta: '2020-12-06'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -27,9 +27,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Predicting NO2 concentrations" />
 
-  <meta name="dc.date" content="2020-12-05" />
+  <meta name="dc.date" content="2020-12-06" />
 
-  <meta name="citation_publication_date" content="2020-12-05" />
+  <meta name="citation_publication_date" content="2020-12-06" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://sfiala2.github.io/498_NO2_pred/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sfiala2.github.io/498_NO2_pred/v/dfba9859ddec4bb42bbb26bd983dec29c7ce93d5/" />
+  <link rel="alternate" type="text/html" href="https://sfiala2.github.io/498_NO2_pred/v/f1ba70fe51620aa17111edaa8a07d23ec7ddaa70/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sfiala2.github.io/498_NO2_pred/v/dfba9859ddec4bb42bbb26bd983dec29c7ce93d5/" />
+  <meta name="manubot_html_url_versioned" content="https://sfiala2.github.io/498_NO2_pred/v/f1ba70fe51620aa17111edaa8a07d23ec7ddaa70/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sfiala2.github.io/498_NO2_pred/v/dfba9859ddec4bb42bbb26bd983dec29c7ce93d5/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sfiala2.github.io/498_NO2_pred/v/f1ba70fe51620aa17111edaa8a07d23ec7ddaa70/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,10 +103,10 @@ title: Predicting NO2 concentrations
 
 <small><em>
 This manuscript
-([permalink](https://sfiala2.github.io/498_NO2_pred/v/dfba9859ddec4bb42bbb26bd983dec29c7ce93d5/))
+([permalink](https://sfiala2.github.io/498_NO2_pred/v/f1ba70fe51620aa17111edaa8a07d23ec7ddaa70/))
 was automatically generated
-from [sfiala2/498_NO2_pred@dfba985](https://github.com/sfiala2/498_NO2_pred/tree/dfba9859ddec4bb42bbb26bd983dec29c7ce93d5)
-on December 5, 2020.
+from [sfiala2/498_NO2_pred@f1ba70f](https://github.com/sfiala2/498_NO2_pred/tree/f1ba70fe51620aa17111edaa8a07d23ec7ddaa70)
+on December 6, 2020.
 </em></small>
 
 ## Authors
@@ -159,7 +159,7 @@ test commit on abstract
 
 # 1. Introduction
 
-NO2 is defined by the U.S. Environmental Protection Agency (EPA) as a criteria air pollutant, meaning it poses a risk to human and environmental health.  The primary National Ambient Air Quality Standard (NAAQS) is set at a 53 ppb annual average [@https://www.epa.gov/no2-pollution/primary-national-ambient-air-quality-standards-naaqs-nitrogen-dioxide]. NO2 can cause respiratory irritation and can aggravate respiratory diseases such as asthma (US EPA, n.d., B). NO2 can also react with other chemicals in the atmosphere to form both particulate matter (PM) and tropospheric ozone (US EPA, n.d., B). PM and ozone are also criteria air pollutants and are harmful to human health. NO2 also contributes to the formation of acid rain, smog, and nutrient pollution in coastal waters (US EPA, n.d., B). The primary source of NO2 emissions is fossil fuel combustion, particularly from traffic and power plants (US EPA, n.d., B). 
+NO_2 is defined by the U.S. Environmental Protection Agency (EPA) as a criteria air pollutant, meaning it poses a risk to human and environmental health.  The primary National Ambient Air Quality Standard (NAAQS) for NO2 is set at a 53 ppb annual average [@https://www.epa.gov/no2-pollution/primary-national-ambient-air-quality-standards-naaqs-nitrogen-dioxide]. NO2 can cause respiratory irritation and can aggravate respiratory diseases such as asthma (US EPA, n.d., B). NO2 can also react with other chemicals in the atmosphere to form both particulate matter (PM) and tropospheric ozone (US EPA, n.d., B). PM and ozone are also criteria air pollutants and are harmful to human health. NO2 also contributes to the formation of acid rain, smog, and nutrient pollution in coastal waters (US EPA, n.d., B). The primary source of NO2 emissions is fossil fuel combustion, particularly from traffic and power plants (US EPA, n.d., B). 
 
 Therefore, understanding and predicting the spatial variability of NO2 emissions is of great importance to public health. However, prediction of air quality can be complicated due to the number of factors that affect local air quality, ranging from meteorology to land use. Machine learning models are a useful tool to interpret and find relationships in complex data. 
 
