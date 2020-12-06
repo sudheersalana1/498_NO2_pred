@@ -55,23 +55,23 @@ header-includes: '<!--
 
   <meta name="citation_author" content="Jane Roe" />
 
-  <link rel="canonical" href="https://sfiala2.github.io/498_NO2_pred/" />
+  <link rel="canonical" href="https://sfiala2.github.io/498_NO2_predict/" />
 
-  <meta property="og:url" content="https://sfiala2.github.io/498_NO2_pred/" />
+  <meta property="og:url" content="https://sfiala2.github.io/498_NO2_predict/" />
 
-  <meta property="twitter:url" content="https://sfiala2.github.io/498_NO2_pred/" />
+  <meta property="twitter:url" content="https://sfiala2.github.io/498_NO2_predict/" />
 
-  <meta name="citation_fulltext_html_url" content="https://sfiala2.github.io/498_NO2_pred/" />
+  <meta name="citation_fulltext_html_url" content="https://sfiala2.github.io/498_NO2_predict/" />
 
-  <meta name="citation_pdf_url" content="https://sfiala2.github.io/498_NO2_pred/manuscript.pdf" />
+  <meta name="citation_pdf_url" content="https://sfiala2.github.io/498_NO2_predict/manuscript.pdf" />
 
-  <link rel="alternate" type="application/pdf" href="https://sfiala2.github.io/498_NO2_pred/manuscript.pdf" />
+  <link rel="alternate" type="application/pdf" href="https://sfiala2.github.io/498_NO2_predict/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://sfiala2.github.io/498_NO2_pred/v/f1ba70fe51620aa17111edaa8a07d23ec7ddaa70/" />
+  <link rel="alternate" type="text/html" href="https://sfiala2.github.io/498_NO2_predict/v/d9e9962a6c094aad3df57dd856d5c040b4f8bacd/" />
 
-  <meta name="manubot_html_url_versioned" content="https://sfiala2.github.io/498_NO2_pred/v/f1ba70fe51620aa17111edaa8a07d23ec7ddaa70/" />
+  <meta name="manubot_html_url_versioned" content="https://sfiala2.github.io/498_NO2_predict/v/d9e9962a6c094aad3df57dd856d5c040b4f8bacd/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://sfiala2.github.io/498_NO2_pred/v/f1ba70fe51620aa17111edaa8a07d23ec7ddaa70/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://sfiala2.github.io/498_NO2_predict/v/d9e9962a6c094aad3df57dd856d5c040b4f8bacd/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Predicting NO2 concentrations
 
 <small><em>
 This manuscript
-([permalink](https://sfiala2.github.io/498_NO2_pred/v/f1ba70fe51620aa17111edaa8a07d23ec7ddaa70/))
+([permalink](https://sfiala2.github.io/498_NO2_predict/v/d9e9962a6c094aad3df57dd856d5c040b4f8bacd/))
 was automatically generated
-from [sfiala2/498_NO2_pred@f1ba70f](https://github.com/sfiala2/498_NO2_pred/tree/f1ba70fe51620aa17111edaa8a07d23ec7ddaa70)
+from [sfiala2/498_NO2_predict@d9e9962](https://github.com/sfiala2/498_NO2_predict/tree/d9e9962a6c094aad3df57dd856d5c040b4f8bacd)
 on December 6, 2020.
 </em></small>
 
@@ -185,6 +185,9 @@ Additionally, all studies considered meteorology when constructing the machine l
 
 ### 2.1.2 AQI/API
 ## 2.1.3 Comparison of PM2.5 and AQI/API studies
+The main difference between the PM2.5 and the AQI studies is that studies examining PM2.5 tended to only examine one pollutant, whereas AQI studies consisted of measuring and modeling a number of different pollutants. Therefore, some AQI models were more interested in classification than predicting a specific pollutant spatially or temporally. As a result, different parameters tended to be included in the model depending on if it was predicting PM2.5 or AQI. Additionally, different models tended to perform best depending on the target prediction. 
+
+The models in each of these studies is summarized in Table 2.1 below: 		
 |PM2.5|Both PM2.5 and AQI|
 |-----|------------------|
 |**MLR** (Xu et al, 2018; Enebish et al, 2020; Chen et al, 2018) | **RF** (Chen et al, 2018; Xu et al, 2018; Singh et al, 2013; Liu et al, 2019; Enebish et al, 2020)|
